@@ -5,7 +5,7 @@ echo hello
 echo This is the content of my remote Script
 
 
-figlet R u n d e c k | lolcat
+figlet Rundeck | lolcat
 
 
 #echo $?    # Exit status 0 returned because command executed successfully.
